@@ -19,7 +19,7 @@ const finished = (pageCount === readPage);
 
 // const isSuccess = books.filter((book) => book.id === id).length > 0;
 
-// Logika gagal menambahkan buku
+// Logika gagal menambahkan bukuaw
 if (name == undefined){
  const response = h.response({
       status: 'fail',
